@@ -12,6 +12,7 @@ public class day1 {
 	public void lastexecution()
 	{
 		System.out.println("I will execute last");
+		System.out.println("I will execute lasttttttt");
 		
 	}
 	
