@@ -23,15 +23,12 @@ public class day1 {
 		Assert.assertTrue(false);
 	}
 	
-	@AfterSuite
-	public void Afsuite()
-	{
-		System.out.println("I am the no 1 from last");
-	}
+	
 	
 	@Test
 	public void secondTest()
 	{
+		System.out.println("bye");
 		System.out.println("bye");
 	}
 
